@@ -3,4 +3,4 @@
 A platformer.
 
 ### Preview
-![alt text](github\image.png)
+![alt text](readme_assets\image.png)
